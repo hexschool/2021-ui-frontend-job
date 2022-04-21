@@ -4,7 +4,7 @@
 
 ## API 介紹
 
-- 每十二小時自動更新。
+- ~~每十二小時自動更新。~~
 - 撈取 Google 表單所建立的 Google Sheet。
 - 採 GitHub Action 自動部署。
 
